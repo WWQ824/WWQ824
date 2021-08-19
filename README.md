@@ -1,7 +1,7 @@
 Hi there👏🏻
 ============
 
-- 👋 Hi, I’m @WWQ824
+- 👋 Hi, I’m WWQ824
 - 👀 I’m interested in iOS
 - 🌱 I’m currently learning Swift
 - 💞️ I’m looking to collaborate on iOS
