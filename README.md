@@ -14,7 +14,7 @@ Hi there👏🏻
 theme=dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
 -->
 
-[![WWQ824's GitHub stats](https://github-readme-stats.vercel.app/api?username=WWQ824&show_icons=true&theme=merko&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![WWQ824's GitHub stats](https://github-readme-stats.vercel.app/api?username=WWQ824&show_icons=true&theme=merko&hide_title=true)](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
 
 <!---
